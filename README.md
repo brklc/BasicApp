@@ -7,7 +7,7 @@ Proje; Bussines, DataAccess, Entites, WebUI olmak üzere 4 ana katmana ayrılmı
 
  **Bussines Katmanında**; WebUI ile haberleşecek service interfaceleri ve bu serviceler için concrate sınıflar oluşturulmuştur. <br/>
 
-**DataAccess Katmanında**; kullanılacak her veritabanı yapısına uygun olması için DAL interfaceleri ve concrate sınıflar oluşturulmuştur. (EFCore) <br/>
+**DataAccess Katmanında**; kullanılacak tüm veritabanlarının yapısına uygun olması için DAL interfaceleri ve concrate sınıflar oluşturulmuştur. (EFCore) <br/>
 
 **Entites Katmanında**; veritabanı nesnelerine karşılık gelecek sınıflar oluşturulmuştur.<br/>
 
