@@ -1,0 +1,20 @@
+﻿@model BasicApp.WebUI.Models.ProductListModel
+
+<div class="row">
+    
+    <div class="col-md-12">
+
+
+        <div class="row">
+            @foreach (var product in Model.Products)
+            {
+                <partial name="_product" for="@product" />
+            }
+        </div>
+
+    </div>
+</div>
+
+
+
+
