@@ -15,7 +15,7 @@ Proje; Bussines, DataAccess, Entites, WebUI olmak üzere 4 ana katmana ayrılmı
 
 Proje SOLID prensiplerine uygun şekilde kodlanmıştır. <br/>
 
-Proje geliştirilirken; Repository, dependency injection design pattern'lerinden faydalanılmıştır.
+Proje geliştirilirken; Generic repository, dependency injection design pattern'lerinden faydalanılmıştır.
 
 # Kurulum
 
